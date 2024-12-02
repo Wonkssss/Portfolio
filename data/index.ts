@@ -78,71 +78,6 @@ export const navItems = [
     },
   ];
   
-  // export const testimonials = [
-  //   {
-  //     quote:
-  //       "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-  //     name: "Michael Johnson",
-  //     title: "Director of AlphaStream Technologies",
-  //   },
-  //   {
-  //     quote:
-  //       "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-  //     name: "Michael Johnson",
-  //     title: "Director of AlphaStream Technologies",
-  //   },
-  //   {
-  //     quote:
-  //       "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-  //     name: "Michael Johnson",
-  //     title: "Director of AlphaStream Technologies",
-  //   },
-  //   {
-  //     quote:
-  //       "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-  //     name: "Michael Johnson",
-  //     title: "Director of AlphaStream Technologies",
-  //   },
-  //   {
-  //     quote:
-  //       "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-  //     name: "Michael Johnson",
-  //     title: "Director of AlphaStream Technologies",
-  //   },
-  // ];
-  
-  // export const companies = [
-  //   {
-  //     id: 1,
-  //     name: "Python",
-  //     img: "/cloud.svg",
-  //     nameImg: "/cloudName.svg",
-  //   },
-  //   {
-  //     id: 2,
-  //     name: "appwrite",
-  //     img: "/app.svg",
-  //     nameImg: "/appName.svg",
-  //   },
-  //   {
-  //     id: 3,
-  //     name: "HOSTINGER",
-  //     img: "/host.svg",
-  //     nameImg: "/hostName.svg",
-  //   },
-  //   {
-  //     id: 4,
-  //     name: "stream",
-  //     img: "/s.svg",
-  //     nameImg: "/streamName.svg",
-  //   },
-  //   {
-  //     id: 5,
-  //     name: "docker.",
-  //     img: "/dock.svg",
-  //     nameImg: "/dockerName.svg",
-  //   },
-  // ];
   
   export const workExperience = [
     {
@@ -156,14 +91,14 @@ export const navItems = [
       id: 2,
       title: "Treasurer and Vice-President of University Association LéoBasket",
       desc: "Managing the treasury of the association and involved in taking decisions among the other members of the board of directors.",
-      className: "md:col-span-2", // change to md:col-span-2
+      className: "md:col-span-2", 
       thumbnail: "/Logolbk.png",
     },
     {
       id: 3,
       title: "Hackathon Hussar Academy Paris-Dakar 2023",
       desc: "Won with my team providing a solution for cybersecurity, Metaverse and Web3 challenges.",
-      className: "md:col-span-2", // change to md:col-span-2
+      className: "md:col-span-2", 
       thumbnail: "/hussar_academy_logo.jpeg",
     },
     {
@@ -181,10 +116,7 @@ export const navItems = [
       img: "/git.svg",
       link: "https://github.com/Wonkssss"
     },
-    // {
-    //   id: 2,
-    //   img: "/twit.svg",
-    // },
+
     {
       id: 3,
       img: "/link.svg",
