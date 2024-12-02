@@ -1,6 +1,40 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# My Portfolio 🖥️
 
-## Getting Started
+Welcome to my personal portfolio. This project showcases my work, experiences, and skills in a designed and interactive website built with modern web technologies.
+
+## 📸 Preview 
+
+![preview](insight_template.png)
+
+## 🛠️ Built With  
+
+- **[Next.js](https://nextjs.org/)**: A powerful React framework for building fast and scalable web applications.  
+- **[Aceternity UI](https://github.com/aceternity-ui)**: A custom design system used to create beautiful, responsive, and accessible UI components.  
+- **[React Icons](https://react-icons.github.io/react-icons/)**: To add intuitive and eye-catching icons throughout the site.  
+- **Modern CSS**: Leveraging Tailwind CSS, Flexbox, Grid, and utility-first classes for a sleek and responsive layout.  
+
+---
+
+## 🎨 Features  
+
+- ✨ **Dynamic Sections**: Each section of the portfolio is dynamically rendered for seamless updates and customization.  
+- ⚡ **Optimized Performance**: Images, fonts, and other assets are optimized using Next.js features like `next/image` and `next/font`.  
+- 📱 **Responsive Design**: Ensures the site looks great on all screen sizes, from desktops to mobile devices.  
+- 🎯 **Interactivity**: Interactive elements like buttons, transitions, and animations enhance the user experience.  
+
+---
+
+## 🛠️ Getting Started  
+
+To explore or modify the project, follow these steps:  
+
+### Clone the Repository  
+```bash
+git clone <repo_url>
+cd portfolio
+
+
+### Getting Started
 
 First, run the development server:
 
@@ -16,18 +50,26 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Make Changes  
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Edit `app/page.tsx` or other components to customize the site. Changes will automatically reflect in your browser.  
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 📖 Learn More  
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Explore more about the technologies used:  
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- [Next.js Documentation](https://nextjs.org/docs)  
+- [Aceternity UI](https://github.com/aceternity-ui)  
+- [React Icons](https://react-icons.github.io/react-icons/)  
+
+---
+## 💡 Acknowledgments  
+
+This portfolio is inspired by the amazing work of [Adrian Hajdin](https://github.com/adrianhajdin/portfolio/tree/main). Check out his [YouTube tutorial](https://www.youtube.com/watch?v=FTH6Dn3AyIQ) for an in-depth guide to building portfolios like this. 
+
+---
 
 ## Deploy on Vercel
 
